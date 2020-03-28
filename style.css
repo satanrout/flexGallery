@@ -38,6 +38,10 @@ body {
   align-items: center;
 }
 
+.panel:hover {
+  cursor: pointer;
+}
+
 .panel1 {
   background-image: url("BelieveINYourself.jpg");
 }
